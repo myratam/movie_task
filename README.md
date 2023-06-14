@@ -6,7 +6,7 @@ To run the project, please follow these steps:
 
 2. Clone the repository:
 
-git clone https://github.com/myratam/similarity
+git clone https://github.com/myratam/movie_task
 
 3. Navigate to the project directory
 
